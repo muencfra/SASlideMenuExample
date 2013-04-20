@@ -16,6 +16,26 @@
 		A5A486AC1722DE6200AC9A9C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486AB1722DE6200AC9A9C /* Default.png */; };
 		A5A486AE1722DE6200AC9A9C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486AD1722DE6200AC9A9C /* Default@2x.png */; };
 		A5A486B01722DE6200AC9A9C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486AF1722DE6200AC9A9C /* Default-568h@2x.png */; };
+		A5A486C21722DEC800AC9A9C /* ButtonMenu.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486B61722DEC800AC9A9C /* ButtonMenu.png */; };
+		A5A486C31722DEC800AC9A9C /* ButtonMenu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486B71722DEC800AC9A9C /* ButtonMenu@2x.png */; };
+		A5A486C41722DEC800AC9A9C /* Event.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486B81722DEC800AC9A9C /* Event.png */; };
+		A5A486C51722DEC800AC9A9C /* Event@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486B91722DEC800AC9A9C /* Event@2x.png */; };
+		A5A486C61722DEC800AC9A9C /* ExampleStaticMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486BB1722DEC800AC9A9C /* ExampleStaticMenuViewController.m */; };
+		A5A486C71722DEC800AC9A9C /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486BC1722DEC800AC9A9C /* home.png */; };
+		A5A486C81722DEC800AC9A9C /* home@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486BD1722DEC800AC9A9C /* home@2x.png */; };
+		A5A486C91722DEC800AC9A9C /* LightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486BF1722DEC800AC9A9C /* LightViewController.m */; };
+		A5A486CA1722DEC800AC9A9C /* SecondTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486C11722DEC800AC9A9C /* SecondTableViewController.m */; };
+		A5A486E01722DF6600AC9A9C /* SASlideMenuContentSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486CF1722DF6600AC9A9C /* SASlideMenuContentSegue.m */; };
+		A5A486E11722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486D31722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.m */; };
+		A5A486E21722DF6600AC9A9C /* SASlideMenuNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486D51722DF6600AC9A9C /* SASlideMenuNavigationController.m */; };
+		A5A486E31722DF6600AC9A9C /* SASlideMenuPushSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486D71722DF6600AC9A9C /* SASlideMenuPushSegue.m */; };
+		A5A486E41722DF6600AC9A9C /* SASlideMenuRightMenuSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486D91722DF6600AC9A9C /* SASlideMenuRightMenuSegue.m */; };
+		A5A486E51722DF6600AC9A9C /* SASlideMenuRightMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486DB1722DF6600AC9A9C /* SASlideMenuRightMenuViewController.m */; };
+		A5A486E61722DF6600AC9A9C /* SASlideMenuRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486DD1722DF6600AC9A9C /* SASlideMenuRootViewController.m */; };
+		A5A486E71722DF6600AC9A9C /* SASlideMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5A486DF1722DF6600AC9A9C /* SASlideMenuViewController.m */; };
+		A5A486E91722DF9300AC9A9C /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5A486E81722DF9300AC9A9C /* QuartzCore.framework */; };
+		A5A486EC1722E01200AC9A9C /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A5A486EA1722E01200AC9A9C /* MainStoryboard.storyboard */; };
+		A5A486EE1722E1FA00AC9A9C /* photo.png in Resources */ = {isa = PBXBuildFile; fileRef = A5A486ED1722E1FA00AC9A9C /* photo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +52,39 @@
 		A5A486AB1722DE6200AC9A9C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		A5A486AD1722DE6200AC9A9C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		A5A486AF1722DE6200AC9A9C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A5A486B61722DEC800AC9A9C /* ButtonMenu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ButtonMenu.png; path = ../../ButtonMenu.png; sourceTree = "<group>"; };
+		A5A486B71722DEC800AC9A9C /* ButtonMenu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ButtonMenu@2x.png"; path = "../../ButtonMenu@2x.png"; sourceTree = "<group>"; };
+		A5A486B81722DEC800AC9A9C /* Event.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Event.png; path = ../../Event.png; sourceTree = "<group>"; };
+		A5A486B91722DEC800AC9A9C /* Event@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Event@2x.png"; path = "../../Event@2x.png"; sourceTree = "<group>"; };
+		A5A486BA1722DEC800AC9A9C /* ExampleStaticMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExampleStaticMenuViewController.h; sourceTree = "<group>"; };
+		A5A486BB1722DEC800AC9A9C /* ExampleStaticMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExampleStaticMenuViewController.m; sourceTree = "<group>"; };
+		A5A486BC1722DEC800AC9A9C /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = home.png; path = ../../home.png; sourceTree = "<group>"; };
+		A5A486BD1722DEC800AC9A9C /* home@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "home@2x.png"; path = "../../home@2x.png"; sourceTree = "<group>"; };
+		A5A486BE1722DEC800AC9A9C /* LightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LightViewController.h; sourceTree = "<group>"; };
+		A5A486BF1722DEC800AC9A9C /* LightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LightViewController.m; sourceTree = "<group>"; };
+		A5A486C01722DEC800AC9A9C /* SecondTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondTableViewController.h; sourceTree = "<group>"; };
+		A5A486C11722DEC800AC9A9C /* SecondTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondTableViewController.m; sourceTree = "<group>"; };
+		A5A486CE1722DF6600AC9A9C /* SASlideMenuContentSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuContentSegue.h; sourceTree = "<group>"; };
+		A5A486CF1722DF6600AC9A9C /* SASlideMenuContentSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuContentSegue.m; sourceTree = "<group>"; };
+		A5A486D01722DF6600AC9A9C /* SASlideMenuDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuDataSource.h; sourceTree = "<group>"; };
+		A5A486D11722DF6600AC9A9C /* SASlideMenuDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuDelegate.h; sourceTree = "<group>"; };
+		A5A486D21722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuLeftMenuSegue.h; sourceTree = "<group>"; };
+		A5A486D31722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuLeftMenuSegue.m; sourceTree = "<group>"; };
+		A5A486D41722DF6600AC9A9C /* SASlideMenuNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuNavigationController.h; sourceTree = "<group>"; };
+		A5A486D51722DF6600AC9A9C /* SASlideMenuNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuNavigationController.m; sourceTree = "<group>"; };
+		A5A486D61722DF6600AC9A9C /* SASlideMenuPushSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuPushSegue.h; sourceTree = "<group>"; };
+		A5A486D71722DF6600AC9A9C /* SASlideMenuPushSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuPushSegue.m; sourceTree = "<group>"; };
+		A5A486D81722DF6600AC9A9C /* SASlideMenuRightMenuSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuRightMenuSegue.h; sourceTree = "<group>"; };
+		A5A486D91722DF6600AC9A9C /* SASlideMenuRightMenuSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuRightMenuSegue.m; sourceTree = "<group>"; };
+		A5A486DA1722DF6600AC9A9C /* SASlideMenuRightMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuRightMenuViewController.h; sourceTree = "<group>"; };
+		A5A486DB1722DF6600AC9A9C /* SASlideMenuRightMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuRightMenuViewController.m; sourceTree = "<group>"; };
+		A5A486DC1722DF6600AC9A9C /* SASlideMenuRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuRootViewController.h; sourceTree = "<group>"; };
+		A5A486DD1722DF6600AC9A9C /* SASlideMenuRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuRootViewController.m; sourceTree = "<group>"; };
+		A5A486DE1722DF6600AC9A9C /* SASlideMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SASlideMenuViewController.h; sourceTree = "<group>"; };
+		A5A486DF1722DF6600AC9A9C /* SASlideMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SASlideMenuViewController.m; sourceTree = "<group>"; };
+		A5A486E81722DF9300AC9A9C /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		A5A486EB1722E01200AC9A9C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		A5A486ED1722E1FA00AC9A9C /* photo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = photo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5A486E91722DF9300AC9A9C /* QuartzCore.framework in Frameworks */,
 				A5A4869A1722DE6200AC9A9C /* UIKit.framework in Frameworks */,
 				A5A4869C1722DE6200AC9A9C /* Foundation.framework in Frameworks */,
 				A5A4869E1722DE6200AC9A9C /* CoreGraphics.framework in Frameworks */,
@@ -51,6 +105,7 @@
 		A5A4868D1722DE6200AC9A9C = {
 			isa = PBXGroup;
 			children = (
+				A5A486CD1722DF6600AC9A9C /* SASlideMenu */,
 				A5A4869F1722DE6200AC9A9C /* SASlideMenuExample */,
 				A5A486981722DE6200AC9A9C /* Frameworks */,
 				A5A486971722DE6200AC9A9C /* Products */,
@@ -68,6 +123,7 @@
 		A5A486981722DE6200AC9A9C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A5A486E81722DF9300AC9A9C /* QuartzCore.framework */,
 				A5A486991722DE6200AC9A9C /* UIKit.framework */,
 				A5A4869B1722DE6200AC9A9C /* Foundation.framework */,
 				A5A4869D1722DE6200AC9A9C /* CoreGraphics.framework */,
@@ -78,9 +134,17 @@
 		A5A4869F1722DE6200AC9A9C /* SASlideMenuExample */ = {
 			isa = PBXGroup;
 			children = (
+				A5A486EA1722E01200AC9A9C /* MainStoryboard.storyboard */,
+				A5A486BA1722DEC800AC9A9C /* ExampleStaticMenuViewController.h */,
+				A5A486BB1722DEC800AC9A9C /* ExampleStaticMenuViewController.m */,
+				A5A486BE1722DEC800AC9A9C /* LightViewController.h */,
+				A5A486BF1722DEC800AC9A9C /* LightViewController.m */,
+				A5A486C01722DEC800AC9A9C /* SecondTableViewController.h */,
+				A5A486C11722DEC800AC9A9C /* SecondTableViewController.m */,
 				A5A486A81722DE6200AC9A9C /* FMSMEAppDelegate.h */,
 				A5A486A91722DE6200AC9A9C /* FMSMEAppDelegate.m */,
 				A5A486A01722DE6200AC9A9C /* Supporting Files */,
+				A5A486CB1722DEDE00AC9A9C /* Ressources */,
 			);
 			path = SASlideMenuExample;
 			sourceTree = "<group>";
@@ -97,6 +161,53 @@
 				A5A486AF1722DE6200AC9A9C /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A5A486CB1722DEDE00AC9A9C /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				A5A486CC1722DEF100AC9A9C /* Images */,
+			);
+			path = Ressources;
+			sourceTree = "<group>";
+		};
+		A5A486CC1722DEF100AC9A9C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A5A486ED1722E1FA00AC9A9C /* photo.png */,
+				A5A486BD1722DEC800AC9A9C /* home@2x.png */,
+				A5A486BC1722DEC800AC9A9C /* home.png */,
+				A5A486B61722DEC800AC9A9C /* ButtonMenu.png */,
+				A5A486B71722DEC800AC9A9C /* ButtonMenu@2x.png */,
+				A5A486B81722DEC800AC9A9C /* Event.png */,
+				A5A486B91722DEC800AC9A9C /* Event@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		A5A486CD1722DF6600AC9A9C /* SASlideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				A5A486CE1722DF6600AC9A9C /* SASlideMenuContentSegue.h */,
+				A5A486CF1722DF6600AC9A9C /* SASlideMenuContentSegue.m */,
+				A5A486D01722DF6600AC9A9C /* SASlideMenuDataSource.h */,
+				A5A486D11722DF6600AC9A9C /* SASlideMenuDelegate.h */,
+				A5A486D21722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.h */,
+				A5A486D31722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.m */,
+				A5A486D41722DF6600AC9A9C /* SASlideMenuNavigationController.h */,
+				A5A486D51722DF6600AC9A9C /* SASlideMenuNavigationController.m */,
+				A5A486D61722DF6600AC9A9C /* SASlideMenuPushSegue.h */,
+				A5A486D71722DF6600AC9A9C /* SASlideMenuPushSegue.m */,
+				A5A486D81722DF6600AC9A9C /* SASlideMenuRightMenuSegue.h */,
+				A5A486D91722DF6600AC9A9C /* SASlideMenuRightMenuSegue.m */,
+				A5A486DA1722DF6600AC9A9C /* SASlideMenuRightMenuViewController.h */,
+				A5A486DB1722DF6600AC9A9C /* SASlideMenuRightMenuViewController.m */,
+				A5A486DC1722DF6600AC9A9C /* SASlideMenuRootViewController.h */,
+				A5A486DD1722DF6600AC9A9C /* SASlideMenuRootViewController.m */,
+				A5A486DE1722DF6600AC9A9C /* SASlideMenuViewController.h */,
+				A5A486DF1722DF6600AC9A9C /* SASlideMenuViewController.m */,
+			);
+			path = SASlideMenu;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -155,6 +266,14 @@
 				A5A486AC1722DE6200AC9A9C /* Default.png in Resources */,
 				A5A486AE1722DE6200AC9A9C /* Default@2x.png in Resources */,
 				A5A486B01722DE6200AC9A9C /* Default-568h@2x.png in Resources */,
+				A5A486C21722DEC800AC9A9C /* ButtonMenu.png in Resources */,
+				A5A486C31722DEC800AC9A9C /* ButtonMenu@2x.png in Resources */,
+				A5A486C41722DEC800AC9A9C /* Event.png in Resources */,
+				A5A486C51722DEC800AC9A9C /* Event@2x.png in Resources */,
+				A5A486C71722DEC800AC9A9C /* home.png in Resources */,
+				A5A486C81722DEC800AC9A9C /* home@2x.png in Resources */,
+				A5A486EC1722E01200AC9A9C /* MainStoryboard.storyboard in Resources */,
+				A5A486EE1722E1FA00AC9A9C /* photo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +286,17 @@
 			files = (
 				A5A486A61722DE6200AC9A9C /* main.m in Sources */,
 				A5A486AA1722DE6200AC9A9C /* FMSMEAppDelegate.m in Sources */,
+				A5A486C61722DEC800AC9A9C /* ExampleStaticMenuViewController.m in Sources */,
+				A5A486C91722DEC800AC9A9C /* LightViewController.m in Sources */,
+				A5A486CA1722DEC800AC9A9C /* SecondTableViewController.m in Sources */,
+				A5A486E01722DF6600AC9A9C /* SASlideMenuContentSegue.m in Sources */,
+				A5A486E11722DF6600AC9A9C /* SASlideMenuLeftMenuSegue.m in Sources */,
+				A5A486E21722DF6600AC9A9C /* SASlideMenuNavigationController.m in Sources */,
+				A5A486E31722DF6600AC9A9C /* SASlideMenuPushSegue.m in Sources */,
+				A5A486E41722DF6600AC9A9C /* SASlideMenuRightMenuSegue.m in Sources */,
+				A5A486E51722DF6600AC9A9C /* SASlideMenuRightMenuViewController.m in Sources */,
+				A5A486E61722DF6600AC9A9C /* SASlideMenuRootViewController.m in Sources */,
+				A5A486E71722DF6600AC9A9C /* SASlideMenuViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -179,6 +309,14 @@
 				A5A486A31722DE6200AC9A9C /* en */,
 			);
 			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A5A486EA1722E01200AC9A9C /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A5A486EB1722E01200AC9A9C /* en */,
+			);
+			name = MainStoryboard.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -281,6 +419,7 @@
 				A5A486B51722DE6200AC9A9C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
